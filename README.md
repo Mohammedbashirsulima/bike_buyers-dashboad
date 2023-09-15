@@ -12,7 +12,4 @@ Copyed the three to new sheet name Dashboard and orginzt it by add title for dsh
 Edited charts by add axis,  axis titles, chart titles, est…						
 Create three slicers for three charts						
 Created Report connection for each slicers						
-![image](https://github.com/Mohammedbashirsulima/bike_buyers-dashboad/assets/39868879/30c23565-efa7-4a80-8a3a-d09304c8a882)
-
-
 here in linke you can find the dashboard i uploaded it onedriver https://1drv.ms/x/s!AujwXMH7kggZnSG1AjxJNNGiifNi?e=IL2uwE
