@@ -12,4 +12,4 @@ Copyed the three to new sheet name Dashboard and orginzt it by add title for dsh
 Edited charts by add axis,  axis titles, chart titles, est…						
 Create three slicers for three charts						
 Created Report connection for each slicers						
-here in linke you can find the dashboard i uploaded it onedriver https://1drv.ms/x/s!AujwXMH7kggZnSG1AjxJNNGiifNi?e=IL2uwE
+here in this linke you can find the dashboard i uploaded it Onedriver https://1drv.ms/x/s!AujwXMH7kggZnSG1AjxJNNGiifNi?e=IL2uwE
